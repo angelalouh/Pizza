@@ -1,2 +1,1 @@
-# Pizza
-JennyThinkful-Pizza
+# pizza
